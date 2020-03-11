@@ -1,6 +1,6 @@
 # Craters_MaskRCNN
 
-AliDib_Catalogue.csv is the catalogue of craters predicted by the model in our test set (-180 to -60 Long). 
+AliDib_Catalogue.csv is the catalogue of Lunar craters predicted by the model in our test set (-180 to -60 Long). 
 
 The python files are the inference code for the MaskRCNN craters identifier of Ali-Dib et al. 2020 (Icarus) used in this paper: https://arxiv.org/abs/1906.08826
 
