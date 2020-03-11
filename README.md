@@ -1,5 +1,8 @@
 # Craters_MaskRCNN
-This is the inference code for the MaskRCNN craters identifier of Ali-Dib et al. 2020 (Icarus)
+
+AliDib_Catalogue.csv is the catalogue of craters predicted by the model in our test set (-180 to -60 Long). 
+
+The python files are the inference code for the MaskRCNN craters identifier of Ali-Dib et al. 2020 (Icarus) used in this paper: https://arxiv.org/abs/1906.08826
 
 The model weights, and some DEM examples, can be found here: 
 
